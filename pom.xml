@@ -6,9 +6,27 @@
     <artifactId>archunit-jpa-rules</artifactId>
     <version>1.1-SNAPSHOT</version>
     <scm>
+        <connection>scm:git:git@github.com:chris--/${project.artifactId}.git</connection>
         <developerConnection>scm:git:git@github.com:chris--/${project.artifactId}.git</developerConnection>
         <tag>HEAD</tag>
+        <url>http://github.com/chris--/${project.artifactId}/tree/master</url>
     </scm>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>http://www.opensource.org/licenses/mit-license.php</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>Christian Vogt</name>
+            <email>other@christianvogt.de</email>
+            <organization>PRIVATE</organization>
+            <organizationUrl>https://christianvogt.de</organizationUrl>
+        </developer>
+    </developers>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
