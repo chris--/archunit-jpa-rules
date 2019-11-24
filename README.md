@@ -2,6 +2,15 @@ ArchUnit Rule to detect eagerly fetched JPA associations, because we don't like 
 Make sure to read https://vladmihalcea.com/eager-fetching-is-a-code-smell/
 
 ## Usage
+Import in `pom.xml`:
+```
+<dependency>
+    <groupId>de.christianvogt</groupId>
+    <artifactId>archunit-jpa-rules</artifactId>
+    <version>1.3</version>
+</dependency>
+```
+
 Add a Test and import the ArchRule:
 
 ```
