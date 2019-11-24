@@ -8,7 +8,7 @@
     <artifactId>archunit-jpa-rules</artifactId>
     <version>1.0-SNAPSHOT</version>
     <scm>
-        <developerConnection>scm:git:https://github.com/chris--/${project.artifactId}</developerConnection>
+        <developerConnection>scm:git:git@github.com:chris--/${project.artifactId}.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
