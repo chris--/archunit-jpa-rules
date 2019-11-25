@@ -7,7 +7,7 @@ Import in `pom.xml`:
 <dependency>
     <groupId>de.christianvogt</groupId>
     <artifactId>archunit-jpa-rules</artifactId>
-    <version>1.3</version>
+    <version>1.5</version>
 </dependency>
 ```
 
