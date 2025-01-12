@@ -7,7 +7,7 @@ import com.tngtech.archunit.lang.ArchCondition;
 import com.tngtech.archunit.lang.ConditionEvents;
 import com.tngtech.archunit.lang.SimpleConditionEvent;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 import java.util.Set;
 
 class JpaAssociationCondition extends ArchCondition<JavaClass> {

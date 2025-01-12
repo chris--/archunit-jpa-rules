@@ -2,8 +2,7 @@ package de.christianvogt.archunit;
 
 import com.tngtech.archunit.lang.ArchRule;
 import com.tngtech.archunit.lang.syntax.ArchRuleDefinition;
-
-import javax.persistence.Entity;
+import jakarta.persistence.Entity;
 
 /**
  * JPA-ArchRules to be used in ArchUnit-Tests. Run with @ArchTest
