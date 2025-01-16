@@ -8,11 +8,11 @@
 
     <groupId>de.christianvogt</groupId>
     <artifactId>archunit-jpa-rules</artifactId>
-    <version>1.6-SNAPSHOT</version>
+    <version>1.6</version>
     <scm>
         <connection>scm:git:git@github.com:chris--/${project.artifactId}.git</connection>
         <developerConnection>scm:git:git@github.com:chris--/${project.artifactId}.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>archunit-jpa-rules-1.6</tag>
         <url>http://github.com/chris--/${project.artifactId}/tree/master</url>
     </scm>
 
